@@ -69,6 +69,7 @@
             <message key="name.invalidPattern"
                      value="Package name ''{0}'' must match pattern ''{1}''."/>
         </module>
+        <module name="PackageDeclaration"/>
         <module name="TypeName">
             <message key="name.invalidPattern"
                      value="Type name ''{0}'' must match pattern ''{1}''."/>
